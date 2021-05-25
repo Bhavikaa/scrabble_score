@@ -1,0 +1,30 @@
+.footer{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color:wheat;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  .player-button{
+    width: 80%;
+    text-align: center;
+   
+  }
+  .red{
+    background-color:red;
+  }
+  .green{
+      background-color: green;
+  }
+  .blue{
+      background-color: blue;
+  }
+  .yellow{
+      background-color: yellow;
+  }
+  li{
+    list-style:none;
+}
